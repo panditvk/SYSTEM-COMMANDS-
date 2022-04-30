@@ -1,1 +1,4 @@
-mv *.txt file1
+cript() { echo '
+mv *.txt level1
+'
+}
